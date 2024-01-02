@@ -30,18 +30,18 @@ Este sistema fue desarrollado como proyecto de fin de semestre para la materia d
 
 Este proyecto se uso estructuras dinámicas (nodos, pilas, colas, arboles, grafos, listas, vectores, matrices). 
 
-### nodos
-    Un nodo es una unidad básica que contiene datos y al menos una referencia o enlace a otro nodo. Los nodos se utilizan para construir diversas estructuras, como listas, árboles y grafos.
+### Nodos
+Un nodo es una unidad básica que contiene datos y al menos una referencia o enlace a otro nodo. Los nodos se utilizan para construir diversas estructuras, como listas, árboles y grafos.
 
-### colas
-    Una cola es una estructura de datos que sigue el principio FIFO (First In, First Out), lo que significa que el primer elemento en entrar es el primero en salir. Se pueden agregar elementos al final de la cola y eliminarlos del frente.
-### arboles
-    Un árbol es una estructura de datos jerárquica compuesta por nodos. Cada nodo tiene un valor y cero o más nodos hijos, que a su vez forman subárboles. La parte superior del árbol se llama la raíz, y los nodos sin hijos se llaman hojas.
-### grafos
-    Un grafo es una colección de nodos (o vértices) y aristas (o arcos) que conectan pares de nodos. Los grafos pueden ser dirigidos (las aristas tienen una dirección) o no dirigidos. Se utilizan para modelar relaciones entre entidades.
+### Colas
+Una cola es una estructura de datos que sigue el principio FIFO (First In, First Out), lo que significa que el primer elemento en entrar es el primero en salir. Se pueden agregar elementos al final de la cola y eliminarlos del frente.
+### Arboles
+Un árbol es una estructura de datos jerárquica compuesta por nodos. Cada nodo tiene un valor y cero o más nodos hijos, que a su vez forman subárboles. La parte superior del árbol se llama la raíz, y los nodos sin hijos se llaman hojas.
+### Grafos
+Un grafo es una colección de nodos (o vértices) y aristas (o arcos) que conectan pares de nodos. Los grafos pueden ser dirigidos (las aristas tienen una dirección) o no dirigidos. Se utilizan para modelar relaciones entre entidades.
 
-### listas
-    Una lista es una estructura de datos que almacena elementos en secuencia. Puede ser una lista enlazada, donde cada elemento tiene una referencia al siguiente, o una lista contigua (como un array), donde los elementos están almacenados en ubicaciones de memoria contiguas.
+### Listas
+Una lista es una estructura de datos que almacena elementos en secuencia. Puede ser una lista enlazada, donde cada elemento tiene una referencia al siguiente, o una lista contigua (como un array), donde los elementos están almacenados en ubicaciones de memoria contiguas.
 
 
 ## Software Utilizado
